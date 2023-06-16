@@ -10,8 +10,10 @@
 
 <p align="left">I am a hands-on learner, hence prefer learning new technologies through development. During my leisure time, I explore new technologies, read tech blogs and solve problems on Data Structures and Algorithms.</p>
 
-###
+<hr>
 
+###
+<h3>Languages and Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -65,8 +67,8 @@
 </div>
 
 ###
-
-<div align="left">
+<h3>Connect with me:</h3>
+<div align="center">
   <a href="https://linkedin.com/in/kasun-chathuranga-9b442017b" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -83,5 +85,14 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
+<hr>
+<h3>Github Activity:</h3>
+<div>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=KasunChathuranga3732&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+</div>
+<div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunChathuranga3732&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 ###
